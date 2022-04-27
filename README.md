@@ -1,16 +1,20 @@
 Hi 👋 My name is Sarika Singh
 =============================
 
-Full Stack Web Developer
+  Full Stack Web Developer
 ------------------------
 
 I am an aspiring full stack web developer, with a specialization in MERN stack. Additionally, I have learnt Data Structures and gained expertise in HTML, CSS, and JavaScript.
+
+
 
 * 🌍  I'm based in Uttar Pradesh, India
 * ✉️  You can contact me at [sarika.goooogle.1330@gmail.com](mailto:sarika.goooogle.1330@gmail.com)
 * 🧠  I'm learning MERN Stack MongoDB || Express || React || Node
 
-### Skills
+<img src="https://camo.githubusercontent.com/6f5e3ead776bc722fbfc3da2c8b1454a7a5f27a07b34c0ced075f90a6c25a3be/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313630302f302a4b32574c4d5445784c79696461374f522e676966" height="300px" width="400px" align="right">
+
+## Skills
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
@@ -31,7 +35,7 @@ I am an aspiring full stack web developer, with a specialization in MERN stack. 
 
 <p align="left"> <a href="https://www.github.com/sarikasingh30" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/sarika30singh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@sarika.goooogle.1330" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" width="32" height="32" /></a></p>
 
-### Badges
+## Badges
 
 <b>My GitHub Stats</b>
 
