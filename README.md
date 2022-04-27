@@ -6,7 +6,7 @@ Full Stack Web Developer
 
 I am an aspiring full stack web developer, with a specialization in MERN stack. Additionally, I have learnt Data Structures and gained expertise in HTML, CSS, and JavaScript.
 
-* 🌍  I'm based in India
+* 🌍  I'm based in Uttar Pradesh, India
 * ✉️  You can contact me at [sarika.goooogle.1330@gmail.com](mailto:sarika.goooogle.1330@gmail.com)
 * 🧠  I'm learning MERN Stack MongoDB || Express || React || Node
 
