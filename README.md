@@ -4,6 +4,7 @@ Hi 👋 My name is Sarika Singh
 Full Stack Web Developer
 ------------------------
 
+
 I am an aspiring full stack web developer, with a specialization in MERN stack. Additionally, I have learnt Data Structures and gained expertise in HTML, CSS, and JavaScript.
 
 
