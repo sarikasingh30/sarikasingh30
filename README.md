@@ -10,6 +10,7 @@ I am an aspiring full stack web developer, with a specialization in MERN stack. 
 
 
 * 🌍  I'm based in Uttar Pradesh, India
+* 🖥️  See my portfolio at [My Portfolio](http://sarika-singh.netlify.app/)
 * ✉️  You can contact me at [sarika.goooogle.1330@gmail.com](mailto:sarika.goooogle.1330@gmail.com)
 * 🧠  I'm learning MERN Stack MongoDB || Express || React || Node
 
