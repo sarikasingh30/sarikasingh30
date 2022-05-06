@@ -13,7 +13,7 @@ I want to utilize my skills for development and to work in a highly competitive 
 
 
 * 🌍  I'm based in Uttar Pradesh, India
-* 🖥️  See my portfolio at [My Portfolio](https://sarika-singh.netlify.app/)
+* 🖥️  See my portfolio at [My Portfolio](https://sarika-singh.vercel.app/)
 * ✉️  You can contact me at [sarika.goooogle.1330@gmail.com](mailto:sarika.goooogle.1330@gmail.com)
 * 🧠  I'm learning MERN Stack MongoDB || Express || React || Node
 
