@@ -5,9 +5,7 @@ Full Stack Web Developer
 ------------------------
 
 
-I am an aspiring full stack web developer, with a specialization in MERN Stack. Additionally, I have learnt Data Structures and gained expertise in HTML, CSS, and JavaScript.
-
-I want to utilize my skills for development and to work in a highly competitive environment to seek solutions for problems, learn adaptability skills, create exceptional value and maximize my shell of experience thus developing a successful attitude towards living on the edge and become globally in demand.
+Experienced Full-Stack Web Developer with 1+ years of expertise, proficient in crafting seamless applications and contributing effectively within diverse development projects. Adept at leveraging a range of technologies to build robust web solutions and passionate about innovating in a collaborative, dynamic environment. Seeking opportunities to further contribute skills and drive excellence in web development.
 
 
 
