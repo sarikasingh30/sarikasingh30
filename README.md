@@ -26,9 +26,9 @@ opportunities to further contribute skills and drive excellence in web developme
 <h3 align="left">Connect with me:</h3>
 <div>
 <p align="left">
-<a href="https://linkedin.com/in/sarika30singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarika30singh" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sarika_30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sarika_30" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/user5374wb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="user5374wb" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sarika30singh" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarika30singh" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/sarika_30" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sarika_30" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/user5374wb" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="user5374wb" height="30" width="40" /></a>
 </p>
 </div>
 <h3 align="left">Languages and Tools:</h3>
