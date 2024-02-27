@@ -106,4 +106,4 @@ opportunities to further contribute skills and drive excellence in web developme
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarikasingh30&" alt="sarikasingh30" /></p>
 
 
-![snake gif](https://github.com/sarikasingh30/sarikasingh30/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/sarikasingh30/sarikasingh30/blob/output/github-contribution-grid-snake.svg)
