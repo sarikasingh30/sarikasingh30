@@ -13,7 +13,7 @@ opportunities to further contribute skills and drive excellence in web developme
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarikasingh30&label=Profile%20views&color=0e75b6&style=flat" alt="sarikasingh30" /> </p>
 
-- 🌱 I’m currently learning **NEXTjs**
+- 🌱 I’m currently learning **NEXT.JS**
 <img align="right" alt="coding gif" width="400" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif"/>
 
 - 📫 How to reach me **sarika.goooogle.1330@gmail.com**
