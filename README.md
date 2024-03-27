@@ -20,7 +20,7 @@ opportunities to further contribute skills and drive excellence in web developme
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1-TdSaVmritIqj_iJH9JNUMcV5WBSfgec/view?usp=sharing)
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://sarika-singh.vercel.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://sarika-singh-fswd.vercel.app/)
 
 
 <h3 align="left">Connect with me:</h3>
