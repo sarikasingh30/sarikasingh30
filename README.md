@@ -18,7 +18,7 @@ opportunities to further contribute skills and drive excellence in web developme
 
 - 📫 How to reach me **sarika.goooogle.1330@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1mbeeE2uWXy-8tNLWhw7W4k8z3ZPZvecs/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1OQIMMy1JvUg21H8_RjPaHfWYz0mzURTl/view)
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://sarika-singh-fswd.vercel.app/)
 
