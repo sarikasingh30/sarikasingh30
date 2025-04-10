@@ -4,7 +4,7 @@
 <h3 align="center">A Passionate Fullstack Web Developer from India</h3>
 
 <p>
-  Experienced Full-Stack Web Developer with 1+ years of expertise, proficient in crafting
+  Experienced Full-Stack Web Developer with 2+ years of expertise, proficient in crafting
 seamless applications and contributing effectively within diverse development projects.
 Adept at leveraging a range of technologies to build robust web solutions and
 passionate about innovating in a collaborative, dynamic environment. Seeking
